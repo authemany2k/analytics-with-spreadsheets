@@ -1,7 +1,7 @@
 Congratulations! :clap: You have successfully completed this project with this submission. Good knowledge of statistics and great analytical skills are shown in this work. Please keep up doing this good job! You have mastered the spreadsheet commands needed to conduct a business analysis, build an Income Statement, and a financial forecast model using scenarios. You can showcase the presentation and spreadsheet with the financial model and income statement to showcase your analysis skills. 
 
 
-# analytics-with-spreedsheets
+# analytics-with-spreedsheets on New York Stock Exchange data
 Masterschool project on analytics with spreedsheets
 Project Details
 
