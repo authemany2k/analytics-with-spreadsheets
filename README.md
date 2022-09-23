@@ -2,8 +2,8 @@ Congratulations! :clap: You have successfully completed this project with this s
 
 
 # analytics-with-spreedsheets on New York Stock Exchange data
-Masterschool project on analytics with spreedsheets
-Project Details
+Masterschool project on NYSE data analytics with spreedsheets
+Project Details 
 
 The presentation with the visuals and summary
 A copy of the spreadsheet workbook you will use to do the analysis for your report contains the following tabs:
