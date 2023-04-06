@@ -1,6 +1,7 @@
 Congratulations! 👏 You have completed this project with this submission. Good knowledge of statistics and great analytical skills are shown in this work. Please keep up doing this good job! You have mastered the spreadsheet commands needed to conduct a business analysis, build an income statement, and create a financial forecast model using scenarios. You can use the presentation and spreadsheet with the financial model and income statement to showcase your analysis skills.
 
-Masterschool project on NYSE data analytics with spreadsheets Project Details
+Masterschool project on NYSE data analytics with spreadsheets.
+Project Details:
 The presentation with the visuals and summary A copy of the spreadsheet workbook you will use to analyze your report contains the following tabs: Data file Summary statistics P&L Statement Dashboard Forecast scenarios Here are the three tasks that you will complete in the final project.
 
 Task 1: a. Identify the question about the data that you will answer based on your data analysis and include this in your slide presentation.
