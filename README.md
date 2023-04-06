@@ -1,8 +1,8 @@
 Congratulations! 👏 You have completed this project with this submission. Good knowledge of statistics and great analytical skills are shown in this work. Please keep up doing this good job! You have mastered the spreadsheet commands needed to conduct a business analysis, build an income statement, and create a financial forecast model using scenarios. You can use the presentation and spreadsheet with the financial model and income statement to showcase your analysis skills.
 
 Masterschool project on NYSE data analytics with spreadsheets.
-Project Details:
-The presentation with the visuals and summary A copy of the spreadsheet workbook you will use to analyze your report contains the following tabs: Data file Summary statistics P&L Statement Dashboard Forecast scenarios Here are the three tasks that you will complete in the final project.
+
+Project Details: The presentation with the visuals and summary a copy of the spreadsheet workbook you will use to analyze your report contains the following tabs: Data file Summary statistics P&L Statement Dashboard Forecast scenarios Here are the three tasks that you will complete in the final project.
 
 Task 1: a. Identify the question about the data that you will answer based on your data analysis and include this in your slide presentation.
 Your question should include at least one categorical variable (GICS sector or GICS subindustry) and one quantitative variable (one of the financial metrics), and require the use of at least one of the summary statistics. A tab within the Excel spreadsheet that you submit should include the summary statistics [measures of central tendency (e.g., mean, median) and measures of spread (standard deviation and range)] you used to answer your question. 
